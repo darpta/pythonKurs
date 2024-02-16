@@ -1,0 +1,8 @@
+Betri Trygging, Betri Life/Pension, Betri PWA
+
+Dodanie użytkownika hasła:
+alter user <uzytkownik> identified by "<haslo>";
+
+Przydzielanie uprawnien:
+Shell => Menu Authorisation => Functional Authorisation
+dac Query i wyszukac <uzytkownik>
